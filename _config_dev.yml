@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
+name: Aditya Ramesh
+title: Aditya Ramesh | Electronics Engineer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+url: https://theadityaramesh.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: mail.aditya.ramesh@gmail.com
+cover: https://theadityaramesh.github.io/img/og.png
+logo: https://theadityaramesh.github.io/img/emojis/technologist.png
+resume: https://theadityaramesh.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:mail.aditya.ramesh@gmail.com
   - title: twitter
     url: https://twitter.com/bchiang7
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/theadityaramesh
   - title: codepen
     url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/theAdityaRamesh
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/theadityaramesh
 
 # Build settings
 markdown: kramdown
