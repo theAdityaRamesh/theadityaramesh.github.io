@@ -1,7 +1,7 @@
 # Site settings
 name: Aditya Ramesh
 title: Aditya Ramesh | Electronics Engineer
-description:  A detail oriented electronics engineering student intersted in DSP.
+description:  Electronics Engineering student interested in DSP.
 url: https://theadityaramesh.github.io/
 baseurl: ''
 email: mail.aditya.ramesh@gmail.com
@@ -12,7 +12,7 @@ social:
   - title: email
     url: mailto:mail.aditya.ramesh@gmail.com
   - title: blog
-    url: https://theadityaramesh.github.io/adityarameshblog
+    url: https://theadityaramesh.gitbook.io/blog
   - title: instagram
     url: https://instagram.com/theadityaramesh
   - title: github
