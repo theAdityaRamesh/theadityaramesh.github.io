@@ -1,0 +1,20 @@
+<section class="section experience">
+    <div class="section__title">publications</div>
+    <div class="section__content">
+      <div class="jobs">
+        {% for paper in site.data.publications %}
+        <div class="job">
+          <div class="time-place">
+            <div class="job__company">
+              <a href="{{paper.url}}" target="_blank">{{paper.name}}</a>
+            </div>
+            <!-- <div class="job__time">{{paper.conf}}</div>    -->
+          </div>
+          <!-- <div class="job__position">{{job.authors}}</div> -->
+        </div>
+        {% endfor %}
+      </div>
+  
+      <!-- <a href="{{site.resume}}" target="_blank" class="arrow-link">View My Resume</a> -->
+    </div>
+  </section>
